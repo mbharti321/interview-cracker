@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": 1,
+    "document_id": 1,
+    "source": "data/samples\\dinosaurs_review.md",
+    "text": "# Dinosaur Action Figures Set\n\n## Product Description\nExplore the prehistoric world with this realis"
+  },
+  {
+    "chunk_id": 2,
+    "document_id": 1,
+    "source": "data/samples\\dinosaurs_review.md",
+    "text": "ience\n**4.5 out of 5 stars** - \"Kids absolutely love these dinosaurs! The detail is impressive and t"
+  },
+  {
+    "chunk_id": 3,
+    "document_id": 1,
+    "source": "data/samples\\dinosaurs_review.md",
+    "text": "ducational toy.\"\n\n## Product Highlights\n- 12 different dinosaur species\n- Hand-painted realistic det"
+  },
+  {
+    "chunk_id": 4,
+    "document_id": 1,
+    "source": "data/samples\\dinosaurs_review.md",
+    "text": "\n\n## Educational Value\nPerfect for sparking an interest in natural history and prehistoric life.\n"
+  },
+  {
+    "chunk_id": 5,
+    "document_id": 2,
+    "source": "data/samples\\lego_review.md",
+    "text": "# LEGO Classic Building Blocks Review\n\n## Product Overview\nThe LEGO Classic set is an ideal introduc"
+  },
+  {
+    "chunk_id": 6,
+    "document_id": 2,
+    "source": "data/samples\\lego_review.md",
+    "text": "ustomer Review\n**5 out of 5 stars** - \"Amazing quality! My daughter has been playing with this set f"
+  },
+  {
+    "chunk_id": 7,
+    "document_id": 2,
+    "source": "data/samples\\lego_review.md",
+    "text": "300 assorted bricks in vibrant colors\n- Includes instruction booklets with 5 model ideas\n- Perfectly"
+  },
+  {
+    "chunk_id": 8,
+    "document_id": 2,
+    "source": "data/samples\\lego_review.md",
+    "text": "llent choice for parents looking for a versatile, long-lasting toy that grows with the child.\n"
+  },
+  {
+    "chunk_id": 9,
+    "document_id": 3,
+    "source": "data/samples\\puzzle_review.md",
+    "text": "# Puzzle Master 1000-Piece Brain Teaser\n\n## Product Details\nChallenge your mind with this intricate "
+  },
+  {
+    "chunk_id": 10,
+    "document_id": 3,
+    "source": "data/samples\\puzzle_review.md",
+    "text": " enthusiasts.\n\n## User Review\n**5 out of 5 stars** - \"Excellent puzzle! The pieces fit together perf"
+  },
+  {
+    "chunk_id": 11,
+    "document_id": 3,
+    "source": "data/samples\\puzzle_review.md",
+    "text": "mily. Would definitely buy again!\"\n\n## Features\n- 1000 interlocking pieces\n- High-quality cardboard "
+  },
+  {
+    "chunk_id": 12,
+    "document_id": 3,
+    "source": "data/samples\\puzzle_review.md",
+    "text": "dly materials\n\n## Perfect For\nFamilies looking for quality bonding time and solo puzzle enthusiasts "
+  },
+  {
+    "chunk_id": 13,
+    "document_id": 4,
+    "source": "data/samples\\rc_car_review.md",
+    "text": "# Remote Control Car - High Speed Racer\n\n## Product Information\nExperience thrilling speed with this"
+  },
+  {
+    "chunk_id": 14,
+    "document_id": 4,
+    "source": "data/samples\\rc_car_review.md",
+    "text": "ustomer Feedback\n**4 out of 5 stars** - \"Super fun! The car is really fast and responsive. Battery l"
+  },
+  {
+    "chunk_id": 15,
+    "document_id": 4,
+    "source": "data/samples\\rc_car_review.md",
+    "text": "overall it's a solid toy.\"\n\n## Key Specifications\n- Maximum speed: 25 mph\n- Battery life: 20-25 minu"
+  },
+  {
+    "chunk_id": 16,
+    "document_id": 4,
+    "source": "data/samples\\rc_car_review.md",
+    "text": "ce\n\n## Recommended For\nKids aged 8+ and RC enthusiasts looking for reliable performance.\n"
+  },
+  {
+    "chunk_id": 17,
+    "document_id": 5,
+    "source": "data/samples\\speaker_review.md",
+    "text": "# Wireless Bluetooth Speaker Toy\n\n## Overview\nCompact and kid-friendly bluetooth speaker with built-"
+  },
+  {
+    "chunk_id": 18,
+    "document_id": 5,
+    "source": "data/samples\\speaker_review.md",
+    "text": "reat little speaker! My son loves the LED light show that syncs with the music. It's surprisingly lo"
+  },
+  {
+    "chunk_id": 19,
+    "document_id": 5,
+    "source": "data/samples\\speaker_review.md",
+    "text": "tions\n- Bluetooth 5.0 connectivity\n- Built-in rechargeable battery (6 hours)\n- 3W speaker power\n- LE"
+  },
+  {
+    "chunk_id": 20,
+    "document_id": 5,
+    "source": "data/samples\\speaker_review.md",
+    "text": "t to play their favorite songs wirelessly.\n"
+  }
+]
