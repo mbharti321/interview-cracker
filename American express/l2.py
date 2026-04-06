@@ -32,7 +32,7 @@ can_book(existing_meetings, (14, 16)) # False
 '''
 
 '''
-def can_book(existing_meetings, (10, 12)):
+def can_book(existing_meetings, new_meeting):
     '''
         occupied_hours: set ("9-10", "15-16", "16-17", "17-18") # split the existing meetings into a set of occupied hours 
             -> 10-12 -> true, available # split new meeting into hours and check if any of them are occupied, return false 
